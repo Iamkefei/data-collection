@@ -6,3 +6,4 @@
 
 ### iot
 * **[mqtt库](docs/iot/xmqtt.js)**
+* **[十六进制与base64相互转换](docs/iot/hex_base64.js)**
